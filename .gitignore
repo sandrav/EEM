@@ -1,0 +1,4 @@
+.htaccess
+/_db_backups/
+/cgi/
+/stats/
